@@ -1,0 +1,1 @@
+javac MainChess.java ActualWindow.java AI.java BishopPiece.java BoardParts.java ChessPieceClass.java KingPiece.java KnightPiece.java PawnPiece.java QueenPiece.java RookPiece.java TotalBoard.java

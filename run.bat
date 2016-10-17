@@ -1,0 +1,1 @@
+java MainChess ActualWindow AI BishopPiece BoardParts ChessPieceClass KingPiece KnightPiece PawnPiece QueenPiece RookPiece TotalBoard
